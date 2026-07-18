@@ -4,6 +4,20 @@ A Machine Learning web application that predicts the probability of admission to
 
 Built using **Python**, **Scikit-learn**, and **Streamlit**, this project demonstrates an end-to-end machine learning workflow—from data preprocessing and model training to deployment as an interactive web application.
 
+---
+
+## 📸 Application Preview
+
+### Home Page
+
+![Home Page](images/home.png)
+
+### Prediction Result
+
+![Prediction Result](images/prediction.png)
+
+---
+
 ## 📌 Project Overview
 
 Graduate school admissions depend on several academic factors such as GRE score, TOEFL score, CGPA, research experience, and recommendation strength.
@@ -16,16 +30,5 @@ The project follows a complete machine learning lifecycle:
 - Feature selection
 - Model training
 - Model evaluation
-- Model serialization
-- Interactive prediction interface
-- Deployment-ready architecture
-
-## 🚀 Features
-
-- Interactive Streamlit web application
-- Real-time admission prediction
-- Clean and modular project architecture
 - Model serialization using Joblib
-- Standardized preprocessing pipeline
-- Reproducible machine learning workflow
-- Deployment-ready codebase
+- Interactive prediction interface with Streamlit
