@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+👉 https://jamboree-admission-predictor-qsnq9pespymc26bkrkrweu.streamlit.app/
+
 # 🎓 Graduate Admission Predictor
 
 A Machine Learning web application that predicts the probability of admission to graduate programs based on a student's academic profile.
